@@ -1,0 +1,54 @@
+﻿@model IEnumerable<ContactRegistrationMVC.Models.Contact>
+
+@{
+    ViewData["Title"] = "Contact List";
+}
+<div class="text-center">
+    <h1>@ViewData["Title"]</h1>
+
+    <p class="text-start">
+        <a asp-action="Create" type="button" class="btn btn-success">Add New</a>
+    </p>
+    <table class="table align-middle">
+        <thead>
+            <tr>
+                <th>
+                    #
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Email)
+                </th>
+                <th>Phone Number</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PhoneNumber)
+                    </td>
+                    <td>
+                        <div class="btn-group btn-group-sm" role="group">
+                            <a asp-action="Edit" type="button" class="btn btn-outline-primary">Edit</a>
+                            <a asp-action="Delete" type="button" class="btn btn-outline-danger">Delete</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
