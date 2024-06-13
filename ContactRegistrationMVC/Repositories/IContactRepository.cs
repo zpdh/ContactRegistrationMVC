@@ -8,6 +8,12 @@ namespace ContactRegistrationMVC.Repositories
     {
         ContactModel Add(ContactModel contact);
 
+        ContactModel Update(ContactModel contact);
+
+        bool Delete(int id);
+
+        ContactModel FindId(int id);
+
         HashSet<ContactModel> GetAll();
     }
 }

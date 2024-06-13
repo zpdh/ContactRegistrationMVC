@@ -25,6 +25,19 @@ namespace ContactRegistrationMVC.Controllers
             return View();
         }
 
+        public IActionResult Edit(int id)
+        {
+            var contact = _contactRepository.FindId(id);
+            return View(contact);
+        }
+
+        public IActionResult Delete(int id)
+        {
+            var contact = _contactRepository.FindId(id);
+            return View(contact);
+        }
+
+        //These methods get called when you save, edit or delete a contact
         [HttpPost]
         public IActionResult Create(ContactModel contact)
         {
@@ -32,15 +45,17 @@ namespace ContactRegistrationMVC.Controllers
             return RedirectToAction("Index");
         }
 
-        public IActionResult Edit()
+        [HttpPost]
+        public IActionResult Edit(ContactModel contact)
         {
-
-            return View();
+            _contactRepository.Update(contact);
+            return RedirectToAction("Index");
         }
 
-        public IActionResult Delete()
+        public IActionResult Del(int id)
         {
-            return View();
+            _contactRepository.Delete(id);
+            return RedirectToAction("Index");
         }
     }
 }
