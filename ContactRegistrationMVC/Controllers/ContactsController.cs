@@ -41,6 +41,11 @@ namespace ContactRegistrationMVC.Controllers
         [HttpPost]
         public IActionResult Create(ContactModel contact)
         {
+            if (!ModelState.IsValid)
+            {
+                return View(contact);
+            }
+
             _contactRepository.Add(contact);
             return RedirectToAction("Index");
         }
