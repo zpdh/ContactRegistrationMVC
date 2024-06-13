@@ -14,6 +14,6 @@ namespace ContactRegistrationMVC.Repositories
 
         ContactModel FindId(int id);
 
-        HashSet<ContactModel> GetAll();
+        List<ContactModel> GetAll();
     }
 }

@@ -43,15 +43,16 @@ namespace ContactRegistrationMVC.Repositories
 
             if (contactInDB == null) throw new ArgumentException("There was an error updating this contact: This contact does not exist.");
 
+
             _databaseContext.Contacts.Remove(contactInDB);
             _databaseContext.SaveChanges();
 
             return true;
         }
 
-        public HashSet<ContactModel> GetAll()
+        public List<ContactModel> GetAll()
         {
-            return _databaseContext.Contacts.ToHashSet();
+            return _databaseContext.Contacts.ToList();
         }
 
         public ContactModel FindId(int id)
