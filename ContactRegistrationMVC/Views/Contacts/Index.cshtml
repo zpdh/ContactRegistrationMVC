@@ -1,4 +1,4 @@
-﻿@model IEnumerable<ContactRegistrationMVC.Models.Contact>
+﻿@model IEnumerable<ContactRegistrationMVC.Models.ContactModel>
 
 @{
     ViewData["Title"] = "Contact List";
@@ -26,28 +26,29 @@
             </tr>
         </thead>
         <tbody>
-            @foreach (var item in Model)
+
+            @foreach (var item in Model) 
             {
-                <tr>
-                    <td>
+                    <tr>
+                        <td>
                         @Html.DisplayFor(modelItem => item.Id)
-                    </td>
-                    <td>
+                        </td>
+                        <td>
                         @Html.DisplayFor(modelItem => item.Name)
-                    </td>
-                    <td>
+                        </td>
+                        <td>
                         @Html.DisplayFor(modelItem => item.Email)
-                    </td>
-                    <td>
+                        </td>
+                        <td>
                         @Html.DisplayFor(modelItem => item.PhoneNumber)
-                    </td>
-                    <td>
-                        <div class="btn-group btn-group-sm" role="group">
-                            <a asp-action="Edit" type="button" class="btn btn-outline-primary">Edit</a>
-                            <a asp-action="Delete" type="button" class="btn btn-outline-danger">Delete</a>
-                        </div>
-                    </td>
-                </tr>
+                        </td>
+                        <td>
+                            <div class="btn-group btn-group-sm" role="group">
+                                <a asp-action="Edit" asp-route-id="@item.Id" type="button" class="btn btn-outline-primary">Edit</a>
+                                <a asp-action="Delete" asp-route-id="@item.Id" type="button" class="btn btn-outline-danger">Delete</a>
+                            </div>
+                        </td>
+                    </tr>
             }
         </tbody>
     </table>
