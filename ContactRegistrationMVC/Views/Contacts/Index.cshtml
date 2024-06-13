@@ -4,6 +4,23 @@
     ViewData["Title"] = "Contact List";
 }
 <div class="text-center">
+
+    @if (TempData["SuccessMsg"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+            <button type="button" class="btn-close close-alert btn-sm" aria-label="Close"></button>
+            @TempData["SuccessMsg"]
+        </div>
+    }
+
+    @if (TempData["ErrorMsg"] != null)
+    {
+        <div class="alert alert-danger" role="alert">
+            <button type="button" class="btn-close close-alert btn-sm" aria-label="Close"></button>
+            @TempData["ErrorMsg"]
+        </div>
+    }
+
     <h1>@ViewData["Title"]</h1>
 
     <p class="text-start">
@@ -21,34 +38,36 @@
                 <th>
                     @Html.DisplayNameFor(model => model.Email)
                 </th>
-                <th>Phone Number</th>
+                <th>
+                    Phone Number
+                </th>
                 <th></th>
             </tr>
         </thead>
         <tbody>
 
-            @foreach (var item in Model) 
+            @foreach (var item in Model)
             {
-                    <tr>
-                        <td>
+                <tr>
+                    <td>
                         @Html.DisplayFor(modelItem => item.Id)
-                        </td>
-                        <td>
+                    </td>
+                    <td>
                         @Html.DisplayFor(modelItem => item.Name)
-                        </td>
-                        <td>
+                    </td>
+                    <td>
                         @Html.DisplayFor(modelItem => item.Email)
-                        </td>
-                        <td>
+                    </td>
+                    <td>
                         @Html.DisplayFor(modelItem => item.PhoneNumber)
-                        </td>
-                        <td>
-                            <div class="btn-group btn-group-sm" role="group">
-                                <a asp-action="Edit" asp-route-id="@item.Id" type="button" class="btn btn-outline-primary">Edit</a>
-                                <a asp-action="Delete" asp-route-id="@item.Id" type="button" class="btn btn-outline-danger">Delete</a>
-                            </div>
-                        </td>
-                    </tr>
+                    </td>
+                    <td>
+                        <div class="btn-group btn-group-sm" role="group">
+                            <a asp-action="Edit" asp-route-id="@item.Id" type="button" class="btn btn-outline-primary">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@item.Id" type="button" class="btn btn-outline-danger">Delete</a>
+                        </div>
+                    </td>
+                </tr>
             }
         </tbody>
     </table>
