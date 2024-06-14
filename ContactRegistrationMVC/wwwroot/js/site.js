@@ -3,4 +3,4 @@ $('.close-alert').click(() => {
     $('.alert').hide('fast');
 });
 
-let table = new DataTable('#contact-table');
+let table = new DataTable('#smart-table');

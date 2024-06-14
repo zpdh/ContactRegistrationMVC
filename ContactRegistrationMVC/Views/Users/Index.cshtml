@@ -1,7 +1,7 @@
-﻿@model IEnumerable<ContactRegistrationMVC.Models.ContactModel>
+﻿@model IEnumerable<ContactRegistrationMVC.Models.UserModel>
 
 @{
-    ViewData["Title"] = "Contact List";
+    ViewData["Title"] = "User List";
 }
 <div class="text-center">
 
@@ -36,10 +36,13 @@
                     @Html.DisplayNameFor(model => model.Name)
                 </th>
                 <th>
+                    @Html.DisplayNameFor(model => model.Login)
+                </th>
+                <th>
                     @Html.DisplayNameFor(model => model.Email)
                 </th>
                 <th>
-                    Phone Number
+                    Registration Date
                 </th>
                 <th></th>
             </tr>
@@ -57,10 +60,13 @@
                             @Html.DisplayFor(modelItem => item.Name)
                         </td>
                         <td>
+                            @Html.DisplayFor(modelItem => item.Login)
+                        </td>
+                        <td>
                             @Html.DisplayFor(modelItem => item.Email)
                         </td>
                         <td>
-                            @Html.DisplayFor(modelItem => item.PhoneNumber)
+                            @Html.DisplayFor(modelItem => item.RegistrationDate)
                         </td>
                         <td>
                             <div class="btn-group btn-group-sm" role="group">

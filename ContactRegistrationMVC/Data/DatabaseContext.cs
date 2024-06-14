@@ -8,6 +8,7 @@ namespace ContactRegistrationMVC.Data
         public DatabaseContext(DbContextOptions<DatabaseContext> options) : base(options) { }
 
         public DbSet<ContactModel> Contacts { get; set; }
+        public DbSet<UserModel> Users { get; set; }
     }
 
 }

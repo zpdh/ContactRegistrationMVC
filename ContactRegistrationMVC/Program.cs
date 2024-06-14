@@ -10,6 +10,7 @@ builder.Services.AddEntityFrameworkSqlServer()
     .AddDbContext<DatabaseContext>
     (d => d.UseSqlServer(builder.Configuration.GetConnectionString("DataBase")));
 builder.Services.AddScoped<IContactRepository, ContactRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
 
 var app = builder.Build();
 
