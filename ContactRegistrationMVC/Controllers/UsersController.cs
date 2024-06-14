@@ -46,14 +46,19 @@ namespace ContactRegistrationMVC.Controllers
                 {
                     return View(user);
                 }
+                user.Login = user.Login.ToLower().Trim();
                 user.RegistrationDate = DateTime.Now;
+
+                if (_userRepository.SearchByLogin(user.Login) != null) {
+                    throw new InvalidOperationException("There is already an user with that login.");
+                }
                 _userRepository.Add(user);
                 TempData["SuccessMsg"] = "User registered successfully!";
                 return RedirectToAction("Index");
             }
             catch (Exception e)
             {
-                TempData["ErrorMsg"] = $"There was an error creating the user. Try again. (Error details: {e.Message})";
+                TempData["ErrorMsg"] = $"There was an error creating the user. (Error details: {e.Message})";
                 return RedirectToAction("Index");
             }
         }
@@ -61,14 +66,14 @@ namespace ContactRegistrationMVC.Controllers
         [HttpPost]
         public IActionResult Edit(PasslessUserModel passless)
         {
-            UserModel user = null;
             try
             {
-                user = new UserModel() { Id = passless.Id, Email = passless.Email, Login = passless.Login, Name = passless.Name, UserType = passless.UserType };
+                UserModel user = new UserModel() { Id = passless.Id, Email = passless.Email, Login = passless.Login, Name = passless.Name, UserType = passless.UserType };
                 if (!ModelState.IsValid)
                 {
                     return View(user);
                 }
+                user.Login = user.Login.ToLower();
                 user.UpdateDate = DateTime.Now;
                 _userRepository.Update(user);
                 TempData["SuccessMsg"] = "User edited successfully!";
@@ -76,7 +81,7 @@ namespace ContactRegistrationMVC.Controllers
             }
             catch (Exception e)
             {
-                TempData["ErrorMsg"] = $"There was an error editing the user. Try again. (Error details: {e.InnerException})";
+                TempData["ErrorMsg"] = $"There was an error editing the user. (Error details: {e.InnerException})";
                 return RedirectToAction("Index");
             }
         }
@@ -91,7 +96,7 @@ namespace ContactRegistrationMVC.Controllers
             }
             catch (Exception e)
             {
-                TempData["ErrorMsg"] = $"There was an error deleting the user. Try again. (Error details: {e.Message})";
+                TempData["ErrorMsg"] = $"There was an error deleting the user. (Error details: {e.Message})";
                 return RedirectToAction("Index");
             }
         }

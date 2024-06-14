@@ -25,5 +25,22 @@ namespace ContactRegistrationMVC.Models
         [Required(ErrorMessage = "The password field is required.")]
         [PasswordPropertyText]
         public string Password { get; set; }
+
+        public UserModel() { }
+
+        public UserModel(int id, string name, string login, string email, UserTypeEnum? userType, string password)
+        {
+            Id=id;
+            Name=name;
+            Login=login;
+            Email=email;
+            UserType=userType;
+            Password=password;
+        }
+
+        public bool ValidatePass(string password)
+        {
+            return Password.Equals(password);
+        }
     }
 }

@@ -52,15 +52,20 @@ namespace ContactRegistrationMVC.Repositories
             return true;
         }
 
-        public List<UserModel> GetAll()
-        {
-            return _databaseContext.Users.ToList();
-        }
-
         public UserModel FindId(int id)
         {
             return _databaseContext.Users.FirstOrDefault(x => x.Id == id);
         }
 
+        public UserModel SearchByLogin(string userLogin)
+        {
+            UserModel u = _databaseContext.Users.FirstOrDefault(x => x.Login == userLogin.ToLower().Trim());
+            return u;
+        }
+
+        public List<UserModel> GetAll()
+        {
+            return _databaseContext.Users.ToList();
+        }
     }
 }

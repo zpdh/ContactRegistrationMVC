@@ -14,6 +14,8 @@ namespace ContactRegistrationMVC.Repositories
 
         UserModel FindId(int id);
 
+        UserModel SearchByLogin(string userLogin);
+
         List<UserModel> GetAll();
     }
 }
