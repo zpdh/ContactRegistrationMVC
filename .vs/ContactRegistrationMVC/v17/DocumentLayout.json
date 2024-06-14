@@ -162,8 +162,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Controllers\\LoginController.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T07:28:18.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T07:28:18.474Z"
             },
             {
               "$type": "Document",
@@ -175,8 +174,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Models\\UserModel.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T02:43:32.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T02:43:32.722Z"
             },
             {
               "$type": "Document",
@@ -188,8 +186,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T06:17:22.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T06:17:22.59Z"
             },
             {
               "$type": "Document",
@@ -201,8 +198,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Repositories\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T03:20:09.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T03:20:09.141Z"
             },
             {
               "$type": "Document",
@@ -212,7 +208,7 @@
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "ContactRegistrationMVC\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADMAAAAYAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T03:21:08.953Z",
               "EditorCaption": ""
@@ -227,8 +223,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T23:49:25.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T23:49:25.999Z"
             },
             {
               "$type": "Document",
@@ -240,8 +235,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Models\\LoginModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T07:55:10.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T07:55:10.963Z"
             },
             {
               "$type": "Document",
@@ -253,8 +247,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Views\\Login\\Index.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T07:29:07.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T07:29:07.947Z"
             },
             {
               "$type": "Document",
@@ -266,8 +259,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Controllers\\UsersController.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T02:56:56.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T02:56:56.91Z"
             },
             {
               "$type": "Document",
@@ -279,8 +271,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Controllers\\ContactsController.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T07:21:08.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T07:21:08.191Z"
             },
             {
               "$type": "Document",
@@ -292,8 +283,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Repositories\\IContactRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T00:12:24.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T00:12:24.843Z"
             },
             {
               "$type": "Document",
@@ -305,8 +295,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Models\\PasslessUserModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T06:42:34.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T06:42:34.504Z"
             },
             {
               "$type": "Document",
@@ -318,8 +307,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T06:51:59.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T06:51:59.265Z"
             },
             {
               "$type": "Document",
@@ -331,8 +319,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Models\\ContactModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T07:26:35.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T07:26:35.742Z"
             },
             {
               "$type": "Document",
@@ -344,8 +331,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Views\\Contacts\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T08:22:54.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T08:22:54.053Z"
             },
             {
               "$type": "Document",
@@ -357,8 +343,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Views\\Contacts\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T07:30:52.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T07:30:52.466Z"
             },
             {
               "$type": "Document",
@@ -370,8 +355,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Views\\Contacts\\Create.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T08:22:00.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T08:22:00.655Z"
             },
             {
               "$type": "Document",
@@ -383,8 +367,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Views\\Contacts\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T08:22:27.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T08:22:27.327Z"
             },
             {
               "$type": "Document",
@@ -396,8 +379,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T06:54:20.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T06:54:20.959Z"
             },
             {
               "$type": "Document",
@@ -409,8 +391,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Views\\Shared\\_LayoutLogoff.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T07:25:41.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T07:25:41.277Z"
             },
             {
               "$type": "Document",
@@ -422,8 +403,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Views\\Users\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T05:43:55.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T05:43:55.713Z"
             },
             {
               "$type": "Document",
@@ -435,8 +415,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\wwwroot\\css\\site.css",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-13T04:22:41.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T04:22:41.594Z"
             },
             {
               "$type": "Document",
@@ -472,8 +451,7 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Views\\Users\\Index.cshtml",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAAD4AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T02:58:45.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T02:58:45.294Z"
             },
             {
               "$type": "Document",
