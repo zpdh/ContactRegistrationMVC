@@ -1,14 +1,11 @@
 ﻿using ContactRegistrationMVC.Enums;
-using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
 namespace ContactRegistrationMVC.Models
 {
-    public class UserModel
+    public class PasslessUserModel
     {
         public int Id { get; set; }
-        public DateTime RegistrationDate {  get; set; }
-        public DateTime? UpdateDate { get; set; }
 
         [Required(ErrorMessage = "The name field is required.")]
         public string Name { get; set; }
@@ -22,8 +19,6 @@ namespace ContactRegistrationMVC.Models
 
         [Required(ErrorMessage = "Please choose a user type.")]
         public UserTypeEnum? UserType { get; set; }
-        [Required(ErrorMessage = "The password field is required.")]
-        [PasswordPropertyText]
-        public string Password { get; set; }
+
     }
 }

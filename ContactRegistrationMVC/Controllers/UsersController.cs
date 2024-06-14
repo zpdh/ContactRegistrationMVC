@@ -36,7 +36,7 @@ namespace ContactRegistrationMVC.Controllers
             var user = _userRepository.FindId(id);
             return View(user);
         }
-        //These methods get called when you save, edit or delete a contact
+        //These methods get called when you save, edit or delete a user
         [HttpPost]
         public IActionResult Create(UserModel user)
         {
@@ -59,21 +59,24 @@ namespace ContactRegistrationMVC.Controllers
         }
 
         [HttpPost]
-        public IActionResult Edit(UserModel user)
+        public IActionResult Edit(PasslessUserModel passless)
         {
+            UserModel user = null;
             try
             {
+                user = new UserModel() { Id = passless.Id, Email = passless.Email, Login = passless.Login, Name = passless.Name, UserType = passless.UserType };
                 if (!ModelState.IsValid)
                 {
                     return View(user);
                 }
+                user.UpdateDate = DateTime.Now;
                 _userRepository.Update(user);
                 TempData["SuccessMsg"] = "User edited successfully!";
                 return RedirectToAction("Index");
             }
             catch (Exception e)
             {
-                TempData["ErrorMsg"] = $"There was an error editing the user. Try again. (Error details: {e.Message})";
+                TempData["ErrorMsg"] = $"There was an error editing the user. Try again. (Error details: {e.InnerException})";
                 return RedirectToAction("Index");
             }
         }

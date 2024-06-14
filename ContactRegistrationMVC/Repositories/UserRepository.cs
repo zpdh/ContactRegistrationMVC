@@ -29,9 +29,9 @@ namespace ContactRegistrationMVC.Repositories
 
             userInDB.Name = user.Name;
             userInDB.Login = user.Login;
-            userInDB.Password = user.Password;
             userInDB.Email = user.Email;
-            userInDB.UpdateDate = DateTime.Now;
+            userInDB.UserType = user.UserType;
+            userInDB.UpdateDate = user.UpdateDate;
 
             _databaseContext.Users.Update(userInDB);
             _databaseContext.SaveChanges();

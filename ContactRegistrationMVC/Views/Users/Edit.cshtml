@@ -1,7 +1,8 @@
-﻿@model ContactRegistrationMVC.Models.UserModel
+﻿@using ContactRegistrationMVC.Enums;
+@model ContactRegistrationMVC.Models.UserModel
 
 @{
-    ViewData["Title"] = "Edit Contact";
+    ViewData["Title"] = "Edit User";
 }
 <div class="text-center">
 
@@ -29,10 +30,15 @@
                 <span asp-validation-for="Email" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Password" class="control-label"></label>
-                <input asp-for="Password" class="form-control" type="password"/>
-                <span asp-validation-for="Password" class="text-danger"></span>
+                <label asp-for="UserType" class="control-label">User type</label>
+                <select asp-for="UserType" class="form-select">
+                    <option value="">---Select---</option>
+                    <option value="@UserTypeEnum.Admin">Administrator</option>
+                    <option value="@UserTypeEnum.Default">Default</option>
+                </select>
+                <span asp-validation-for="UserType" class="text-danger"></span>
             </div>
+
             <div class="form-group mt-4">
                 <input type="submit" value="Save" class="btn btn-purple" />
                 <a asp-action="Index" role="button" class="btn btn-secondary">Back to List</a>
