@@ -14,7 +14,8 @@ namespace ContactRegistrationMVC.Repositories
 
         public UserModel Add(UserModel user)
         {
-            //Adds user to database
+            //Adds user to database with encrypted password
+            user.EncryptPass();
             _databaseContext.Users.Add(user);
             _databaseContext.SaveChanges();
 

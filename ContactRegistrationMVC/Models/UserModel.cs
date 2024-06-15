@@ -1,4 +1,5 @@
 ﻿using ContactRegistrationMVC.Enums;
+using ContactRegistrationMVC.Helper;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
@@ -40,7 +41,12 @@ namespace ContactRegistrationMVC.Models
 
         public bool ValidatePass(string password)
         {
-            return Password.Equals(password);
+            return Password.Equals(password.GenerateHash());
+        }
+
+        public void EncryptPass()
+        {
+            Password = Password.GenerateHash();
         }
     }
 }
