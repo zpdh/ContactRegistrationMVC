@@ -1,4 +1,5 @@
 using ContactRegistrationMVC.Data;
+using ContactRegistrationMVC.Helper;
 using ContactRegistrationMVC.Repositories;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,6 +12,14 @@ builder.Services.AddEntityFrameworkSqlServer()
     (d => d.UseSqlServer(builder.Configuration.GetConnectionString("DataBase")));
 builder.Services.AddScoped<IContactRepository, ContactRepository>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.AddScoped<IUserSession, UserSession>();
+
+builder.Services.AddSession(x =>
+{
+    x.Cookie.HttpOnly = true;
+    x.Cookie.IsEssential = true;
+});
 
 var app = builder.Build();
 
@@ -28,6 +37,8 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.UseSession();
 
 app.MapControllerRoute(
     name: "default",
