@@ -2,9 +2,11 @@
 using ContactRegistrationMVC.Models;
 using ContactRegistrationMVC.Repositories;
 using ContactRegistrationMVC.Data;
+using ContactRegistrationMVC.Filters;
 
 namespace ContactRegistrationMVC.Controllers
 {
+    [UsersLoggedPage]
     public class ContactsController : Controller
     {
         private readonly IContactRepository _contactRepository;

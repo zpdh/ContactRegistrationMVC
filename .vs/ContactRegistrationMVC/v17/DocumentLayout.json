@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\viewcomponents\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\viewcomponents\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\views\\shared\\_layoutlogoff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\views\\shared\\_layoutlogoff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\filters\\adminonlypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\filters\\adminonlypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\filters\\usersloggedpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\filters\\usersloggedpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,24 +35,28 @@
       "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\views\\restricted\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\views\\restricted\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\controllers\\restrictedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\controllers\\restrictedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\views\\shared\\_layoutlogoff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\views\\shared\\_layoutlogoff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\helper\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,6 +65,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\helper\\iusersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\helper\\iusersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\viewcomponents\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\viewcomponents\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -91,20 +119,12 @@
       "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\views\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\views\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\views\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -139,10 +159,6 @@
       "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|c:\\users\\carine\\source\\repos\\contactregistrationmvc\\contactregistrationmvc\\contactregistrationmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{8E48C437-02B2-4C37-85E1-864E4BF8A83E}|ContactRegistrationMVC\\ContactRegistrationMVC.csproj|solutionrelative:contactregistrationmvc\\contactregistrationmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
@@ -162,88 +178,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersLoggedPage.cs",
+              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Filters\\UsersLoggedPage.cs",
+              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Filters\\UsersLoggedPage.cs",
+              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Filters\\UsersLoggedPage.cs",
+              "RelativeToolTip": "ContactRegistrationMVC\\Filters\\UsersLoggedPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T03:15:09.347Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\ViewComponents\\Menu.cs",
-              "RelativeDocumentMoniker": "ContactRegistrationMVC\\ViewComponents\\Menu.cs",
-              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\ViewComponents\\Menu.cs",
-              "RelativeToolTip": "ContactRegistrationMVC\\ViewComponents\\Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T02:00:58.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Shared\\Components\\Menu\\Default.cshtml",
-              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Shared\\Components\\Menu\\Default.cshtml",
-              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Shared\\Components\\Menu\\Default.cshtml",
-              "RelativeToolTip": "ContactRegistrationMVC\\Views\\Shared\\Components\\Menu\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Restricted\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Restricted\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Restricted\\Index.cshtml",
+              "RelativeToolTip": "ContactRegistrationMVC\\Views\\Restricted\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-15T01:55:30.213Z",
+              "WhenOpened": "2024-06-15T03:11:05.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Program.cs",
-              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Program.cs",
-              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Program.cs",
-              "RelativeToolTip": "ContactRegistrationMVC\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAARAAAA",
+              "DocumentIndex": 3,
+              "Title": "AdminOnlyPage.cs",
+              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Filters\\AdminOnlyPage.cs",
+              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Filters\\AdminOnlyPage.cs",
+              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Filters\\AdminOnlyPage.cs",
+              "RelativeToolTip": "ContactRegistrationMVC\\Filters\\AdminOnlyPage.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T23:49:25.999Z",
+              "WhenOpened": "2024-06-15T02:49:04.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContactRegistrationMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:17:22.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Contacts\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Contacts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Contacts\\Create.cshtml",
+              "RelativeToolTip": "ContactRegistrationMVC\\Views\\Contacts\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:22:00.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Controllers\\UsersController.cs",
               "RelativeToolTip": "ContactRegistrationMVC\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T02:56:56.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\appsettings.json",
-              "RelativeDocumentMoniker": "ContactRegistrationMVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\appsettings.json",
-              "RelativeToolTip": "ContactRegistrationMVC\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-12T23:51:56.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "ContactRegistrationMVC\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAZAAAA",
+              "DocumentIndex": 6,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ContactRegistrationMVC\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T07:28:18.474Z",
+              "WhenOpened": "2024-06-12T07:21:08.191Z",
               "EditorCaption": ""
             },
             {
@@ -254,79 +283,92 @@
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ContactRegistrationMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-12T06:51:59.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Contacts\\Index.cshtml",
-              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Contacts\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Contacts\\Index.cshtml",
-              "RelativeToolTip": "ContactRegistrationMVC\\Views\\Contacts\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T07:30:52.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "_LayoutLogoff.cshtml",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Shared\\_LayoutLogoff.cshtml",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Shared\\_LayoutLogoff.cshtml",
               "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Shared\\_LayoutLogoff.cshtml",
               "RelativeToolTip": "ContactRegistrationMVC\\Views\\Shared\\_LayoutLogoff.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-14T07:25:41.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ContactRegistrationMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T06:17:22.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ContactsController.cs",
-              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Controllers\\ContactsController.cs",
-              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Controllers\\ContactsController.cs",
-              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Controllers\\ContactsController.cs",
-              "RelativeToolTip": "ContactRegistrationMVC\\Controllers\\ContactsController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T07:21:08.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IUserSession.cs",
-              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Helper\\IUserSession.cs",
-              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Helper\\IUserSession.cs",
-              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Helper\\IUserSession.cs",
-              "RelativeToolTip": "ContactRegistrationMVC\\Helper\\IUserSession.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T01:29:27.519Z",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeToolTip": "ContactRegistrationMVC\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T01:55:30.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ContactRegistrationMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T06:54:56.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ContactRegistrationMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T06:54:20.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RestrictedController.cs",
+              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Controllers\\RestrictedController.cs",
+              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Controllers\\RestrictedController.cs",
+              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Controllers\\RestrictedController.cs",
+              "RelativeToolTip": "ContactRegistrationMVC\\Controllers\\RestrictedController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T03:09:54.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ContactRegistrationMVC\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:28:18.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "UserSession.cs",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Helper\\UserSession.cs",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Helper\\UserSession.cs",
@@ -339,7 +381,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\ViewComponents\\Menu.cs",
+              "RelativeDocumentMoniker": "ContactRegistrationMVC\\ViewComponents\\Menu.cs",
+              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\ViewComponents\\Menu.cs",
+              "RelativeToolTip": "ContactRegistrationMVC\\ViewComponents\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:00:58.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "ContactRegistrationMVC\\Views\\Contacts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T07:30:52.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactRegistrationMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\appsettings.json",
+              "RelativeToolTip": "ContactRegistrationMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T23:51:56.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserSession.cs",
+              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Helper\\IUserSession.cs",
+              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Helper\\IUserSession.cs",
+              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Helper\\IUserSession.cs",
+              "RelativeToolTip": "ContactRegistrationMVC\\Helper\\IUserSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:29:27.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Program.cs",
+              "RelativeToolTip": "ContactRegistrationMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:49:25.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Repositories\\UserRepository.cs",
@@ -347,12 +451,11 @@
               "RelativeToolTip": "ContactRegistrationMVC\\Repositories\\UserRepository.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T03:21:08.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T03:21:08.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Login\\Index.cshtml",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Login\\Index.cshtml",
@@ -364,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Models\\LoginModel.cs",
@@ -376,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Repositories\\IUserRepository.cs",
@@ -388,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "UserModel.cs",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Models\\UserModel.cs",
@@ -400,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "IContactRepository.cs",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Repositories\\IContactRepository.cs",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Repositories\\IContactRepository.cs",
@@ -412,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "PasslessUserModel.cs",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Models\\PasslessUserModel.cs",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Models\\PasslessUserModel.cs",
@@ -424,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "ContactModel.cs",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Models\\ContactModel.cs",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Models\\ContactModel.cs",
@@ -436,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Contacts\\Delete.cshtml",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Contacts\\Delete.cshtml",
@@ -448,19 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Contacts\\Create.cshtml",
-              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Contacts\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Contacts\\Create.cshtml",
-              "RelativeToolTip": "ContactRegistrationMVC\\Views\\Contacts\\Create.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T08:22:00.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Contacts\\Edit.cshtml",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Contacts\\Edit.cshtml",
@@ -472,19 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ContactRegistrationMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T06:54:20.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Users\\Edit.cshtml",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Users\\Edit.cshtml",
@@ -496,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\wwwroot\\css\\site.css",
@@ -508,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Users\\Create.cshtml",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Users\\Create.cshtml",
@@ -520,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Users\\Delete.cshtml",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Users\\Delete.cshtml",
@@ -532,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Users\\Index.cshtml",
@@ -544,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "ContactRepository.cs",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Repositories\\ContactRepository.cs",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Repositories\\ContactRepository.cs",
@@ -556,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\wwwroot\\js\\site.js",
@@ -568,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "20240614025349_UserTableCreation.cs",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Migrations\\20240614025349_UserTableCreation.cs",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Migrations\\20240614025349_UserTableCreation.cs",
@@ -580,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "UserTypeEnum.cs",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Enums\\UserTypeEnum.cs",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Enums\\UserTypeEnum.cs",
@@ -592,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "DatabaseContext.cs",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Data\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Data\\DatabaseContext.cs",
@@ -604,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "20240613000406_CreateContactTable.cs",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Migrations\\20240613000406_CreateContactTable.cs",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\Migrations\\20240613000406_CreateContactTable.cs",
@@ -616,19 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "ContactRegistrationMVC\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "ContactRegistrationMVC\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T06:54:56.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "ContactRegistrationMVC",
               "DocumentMoniker": "C:\\Users\\Carine\\source\\repos\\ContactRegistrationMVC\\ContactRegistrationMVC\\ContactRegistrationMVC.csproj",
               "RelativeDocumentMoniker": "ContactRegistrationMVC\\ContactRegistrationMVC.csproj",

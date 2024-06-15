@@ -1,10 +1,12 @@
 ﻿using ContactRegistrationMVC.Data;
+using ContactRegistrationMVC.Filters;
 using ContactRegistrationMVC.Models;
 using ContactRegistrationMVC.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ContactRegistrationMVC.Controllers
 {
+    [AdminOnlyPage]
     public class UsersController : Controller
     {
         private readonly IUserRepository _userRepository;

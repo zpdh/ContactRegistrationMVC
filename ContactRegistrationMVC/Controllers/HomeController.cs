@@ -1,9 +1,11 @@
+using ContactRegistrationMVC.Filters;
 using ContactRegistrationMVC.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
 namespace ContactRegistrationMVC.Controllers
 {
+    [UsersLoggedPage]
     public class HomeController : Controller
     {
 
